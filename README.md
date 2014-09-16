@@ -4,9 +4,7 @@ To add skin support to your project:
 
 1. copy skinsupport folder to your project's root folder
 2. add line
-3. 
-' include($$PWD/skinsupport/skinsupport.pri)
-
+> include($$PWD/skinsupport/skinsupport.pri)
 to your pro file
 3. add 
 >&#35;include &lt;skinsupport/skinimageprovider.h&gt;
