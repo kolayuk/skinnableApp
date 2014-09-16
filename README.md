@@ -2,12 +2,12 @@ This example loads IDLE background from skin into your app as background.
 
 To add skin support to your project:
 
-1. copy skinsupport folder to your project's root folder
-2. add line to your pro file:
+Copy skinsupport folder to your project's root folder
+Add line to your pro file:
 ```
 include($$PWD/skinsupport/skinsupport.pri)
 ```
-3. add 
+Add 
 ```
 #include <skinsupport/skinimageprovider.h>
 ```
