@@ -9,7 +9,7 @@ include($$PWD/skinsupport/skinsupport.pri)
 ```
 3. add 
 ```
-&#35;include &lt;skinsupport/skinimageprovider.h&gt;
+#include <skinsupport/skinimageprovider.h>
 ```
 and
 ```
