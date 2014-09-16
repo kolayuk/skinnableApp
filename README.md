@@ -2,7 +2,7 @@ This example loads IDLE background from skin into your app as background.
 
 To add skin support to your project:
 
-Copy skinsupport folder to your project's root folder
+First of all copy skinsupport folder to your project's root folder
 
 Add line to your pro file:
 ```
